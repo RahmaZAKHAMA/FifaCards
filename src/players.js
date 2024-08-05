@@ -18,7 +18,7 @@ const players = [
   {
     name: "Kylian MbappÃ©",
     team: "Real Madrid",
-    nationality: "French",
+
     jerseyNumber: 7,
     age: 25,
     imageUrl:
